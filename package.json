@@ -1,0 +1,16 @@
+{
+  "name": "benandjerry",
+  "version": "1.0.0",
+  "description": "ben and jerry website using bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "sneha vijayan t",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "lite-server": "^2.6.1"
+  }
+}
